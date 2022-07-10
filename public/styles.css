@@ -1,7 +1,7 @@
 html {
     height:100%;
   }
-  
+  /* INTENTAR CAMBIAR LOS PORCENTAJE POR HEIGTH: 100VH PARA QUE NO SE DESCONFIGURE AL CHOTO CUANDO CAMBIA DE TAMAÑO  */
   body {
     margin:0;
     font-family: 'Montserrat', sans-serif;

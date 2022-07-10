@@ -8,7 +8,9 @@ function Projectcard(props){
                 <h2 className="card-title">{props.title}</h2>
                 <p className="card-description">{props.desc}</p>
             </div>
-            <button className="card-btn">Live demo!</button>
+            <a href={props.url}>
+                <button className="card-btn">Live demo!</button>
+            </a>
         </div>
     )
 }

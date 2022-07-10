@@ -19,6 +19,7 @@ function Home(){
                 img={item.img}
                 desc={item.desc}
                 title={item.title}
+                url={item.url}
             />
         )
     })
