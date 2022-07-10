@@ -133,7 +133,7 @@ function Home(){
                 </div>
                 <div className="contact-box">
                     <img alt="contact-icon" src="./images/whatsapp.png" className="contact-box-icon"/>
-                    <h3>+54 3400 665799</h3>
+                    <a href="https://wa.me/5493400665799">+54 9 3400 665799</a>
                 </div>
                 <div className="contact-box">
                     <img alt="contact-icon" src="./images/linkedin.png" className="contact-box-icon"/>
